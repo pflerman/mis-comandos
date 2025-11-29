@@ -55,3 +55,8 @@ Bonus:
 - ytm david bowie 80s
 - ytm tears for fears
 - ytm simple minds
+
+# Nano - Marcar y cortar múltiples líneas
+# Marcar inicio: Ctrl + Shift + 6 (o Alt + A)
+# Movete con flechas para seleccionar
+# Cortar lo marcado: Ctrl + K
