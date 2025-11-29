@@ -49,6 +49,14 @@ Controles mientras reproduce:
 - ytm joy division the cure    → Post-punk/new wave
 - ytm progressive rock 70s 80s → Rock progresivo
 - ytm beatles best hits        → Los Beatles clásicos
+- ytm fleetwood mac → Fleetwood Mac clásicos
+- ytm stevie nicks → Stevie Nicks solo
+- ytm depeche mode → Depeche Mode synthpop
+- ytm new order → New Order post-punk/electrónico
+- ytm the cure 80s → The Cure era 80s
+- ytm kraftwerk → Kraftwerk electrónica alemana
+- ytm tears for fears → Tears for Fears new wave
+- ytm pet shop boys → Pet Shop Boys synth-pop
 
 Bonus:
 - ytm talking heads
