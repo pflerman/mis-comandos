@@ -56,7 +56,8 @@ Bonus:
 - ytm tears for fears
 - ytm simple minds
 
-# Nano - Marcar y cortar múltiples líneas
-# Marcar inicio: Ctrl + Shift + 6 (o Alt + A)
-# Movete con flechas para seleccionar
-# Cortar lo marcado: Ctrl + K
+
+## 📝 NANO - Editor de texto
+- Marcar inicio: Ctrl + Shift + 6 (o Alt + A) → Inicia selección
+- Movete con flechas → Selecciona texto
+- Cortar lo marcado: Ctrl + K → Corta todo lo seleccionado
