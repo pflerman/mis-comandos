@@ -72,3 +72,36 @@ Bonus:
 
 ## 🔐 BITWARDEN
 - bwpass → Copia master password de Bitwarden al portapapeles
+
+## 📅 CALCURSE - Calendario Terminal
+
+### Tecnología:
+- calcurse → calendario en terminal con notificaciones
+- systemd user timer → chequea eventos cada 1 minuto
+- dunstify → notificaciones gráficas
+- Script: ~/.local/bin/calcurse-check.sh
+
+### Comandos básicos:
+- calcurse → abrir calendario interactivo
+- calcurse -a → ver agenda del día
+- calcurse --next → ver próximo evento
+- calcurse -t → ver lista TODO
+
+### Navegación dentro de calcurse:
+- A → agregar evento (appointment)
+- T → agregar TODO
+- D → eliminar item
+- E → editar item
+- S → guardar cambios
+- Q → salir
+- TAB → cambiar entre paneles
+- G → ir a fecha específica
+- ! → marcar como importante
+
+### Crear evento:
+- A → fecha (Enter=hoy) → hora inicio → duración (+5) → descripción → repetir (1=una vez)
+
+### Gestionar notificaciones:
+- systemctl --user status calcurse-notify.timer → ver estado
+- systemctl --user restart calcurse-notify.timer → reiniciar
+- journalctl --user -u calcurse-notify.service -f → ver logs en vivo
