@@ -69,3 +69,6 @@ Bonus:
 - Marcar inicio: Ctrl + Shift + 6 (o Alt + A) → Inicia selección
 - Movete con flechas → Selecciona texto
 - Cortar lo marcado: Ctrl + K → Corta todo lo seleccionado
+
+## 🔐 BITWARDEN
+- bwpass → Copia master password de Bitwarden al portapapeles
